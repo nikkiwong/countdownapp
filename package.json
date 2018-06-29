@@ -1,0 +1,16 @@
+{
+  "name": "electronApp",
+  "productName": "Count Down",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.3"
+  }
+}
